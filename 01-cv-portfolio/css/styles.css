@@ -96,7 +96,7 @@ b.max-bold{ font-weight: 700; }
 
 .margin-tb-30{ margin-top: 30px; margin-bottom: 30px; }
 
-.font-yellow{ color: #0039cb; }
+.font-yellow{ color: #ffe7aa; }
 
 .font-semi-white{ color: #ddd; }
 
@@ -225,7 +225,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 7. EXPERIENCE SECTION
 --------------------------------- */
 
-.experience-section{ background: #28023D; color: #fff; }
+.experience-section{ background: #0d2f81; color: #fff; }
 
 .experience .list > li{ display: block; position: relative; margin-bottom: 10px; padding-left: 20px; }
 
